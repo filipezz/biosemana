@@ -1,6 +1,6 @@
 # Express Boilerplate
 
-Boilerplate pré configurado para aplicações express.
+Boilerplate com pré confiturações úteis para aplicações express.
 
 ## Features
  - Prettier
