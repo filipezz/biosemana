@@ -1,6 +1,6 @@
 # Express Boilerplate
 
-Boilerplate com pré confiturações úteis para aplicações express.
+API da Biosemana
 
 ## Features
  - Prettier
