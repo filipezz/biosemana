@@ -8,6 +8,7 @@ class Participant extends Model {
         email: Sequelize.STRING,
         cpf: Sequelize.INTEGER,
       },
+
       { sequelize }
     );
 
